@@ -3,6 +3,7 @@
     "description": "Test",
     "type": "magento2-module",
     "minimum-stability": "dev",
+    "version": "1.0.1",
     "require": {},
     "autoload": {
         "files": [
